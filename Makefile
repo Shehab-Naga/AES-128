@@ -1,8 +1,8 @@
 ################################ Makefile for AES-128 Project
 # =============================================================================
 # Project Paths
-rtl_path  = "D:/Spring 2022/Discrete (MATH 203)/CourseProject/AES-128/rtl"
-tb_path   = "D:/Spring 2022/Discrete (MATH 203)/CourseProject/AES-128/tb"
+rtl_path  = "D:/AES-128/rtl"
+tb_path   = "D:/AES-128/tb"
 work_path = "../questa_project"
 # =============================================================================
 # FLAGS

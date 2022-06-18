@@ -7,7 +7,7 @@ Design doc.    :
 References     : 
 Description    : Sbox is a lookup/substitution table to 
                  substitute the input byte
-Owner          : Omar Amin
+Owner          : Shehab Bahaa
 */
 
 `timescale 1 ns/1 ps
